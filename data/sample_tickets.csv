@@ -1,0 +1,11 @@
+subject,body,category,priority
+Cannot login to account,"I reset my password but still cannot login to the admin portal.",account_access,high
+Invoice not received,"We need the February invoice for our finance team.",billing,medium
+API returns 401,"Our production integration receives 401 errors after rotating the token.",technical,high
+How to change plan,"Can you explain how to upgrade from basic to pro?",general,low
+Duplicate charge,"We were charged twice for the same subscription this month.",billing,high
+Slow dashboard,"The analytics dashboard takes more than 30 seconds to load.",technical,medium
+Add a new user,"Please help invite another teammate to our workspace.",account_access,low
+Cancel subscription,"We want to cancel our subscription before renewal.",billing,medium
+Webhook failures,"Webhook deliveries have been failing since yesterday with timeout errors.",technical,high
+Product question,"Does your product support custom user roles?",general,low

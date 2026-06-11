@@ -1,0 +1,11 @@
+.env
+.git
+.venv
+__pycache__/
+*.pyc
+.pytest_cache/
+artifacts/
+mlruns/
+postgres_data/
+mongo_data/
+mlflow_data/
